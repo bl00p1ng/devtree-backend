@@ -7,7 +7,10 @@
     "dev": "nodemon src/index.ts",
     "dev:api": "nodemon src/index.ts --api",
     "build": "tsc",
-    "start": "node dist/index.js"
+    "start": "node dist/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "author": "Andrés López",
   "license": "ISC",
