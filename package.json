@@ -9,7 +9,7 @@
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Andrés López",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
